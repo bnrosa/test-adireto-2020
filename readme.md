@@ -15,6 +15,6 @@ Também é necessário configurar um arquivo .env com as seguintes variáveis de
 Para roder o app você precisa abrir outra janela no terminal, navegar até a pasta root do projeto e executar os seguintes comandos:
 `cd frontend`
 `npm install`
-`node server.js`
+`npm start`
 
 É possível acessar a versão live do projeto no link [aqui](https://rest-countries-bnrosa.netlify.app/)
